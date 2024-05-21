@@ -9,6 +9,6 @@ Uma iniciativa do Ministério de Ciência e Tecnologia.
 <br>
 [Gustavo Resende](https://github.com/Naufra1) | Back-end
 <br>
-.[Lawrence Duarte](https://github.com/lawrenceduarte) | Dados
+[Lawrence Duarte](https://github.com/lawrenceduarte) | Dados
 <br>
 [Kayky Gameiro](https://github.com/Kaykygameiro01) | Front-end
